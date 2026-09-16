@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · QGhIGWOJ -->
-## Notification 1/2
-Round: Round 1
-To: schilders@tfewines.com, mizzou76@aol.com
-At: 2026-09-16 15:45:52
-Id: QGhIGWOJ
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: k.g.campbell@live.com, edward@mgscounsel.com
+At: 2026-09-16 15:46:01
+Id: mfiAXFVE
